@@ -54,6 +54,7 @@ _[A note on the role of citations in this project](https://github.com/MKorostoff
 
 # About the Author
 _[Wealth to Scale (One Pixel Wealth) was created by](https://mkorostoff.github.io/)_
+
 Adapted by Omar A. Douglas, local high school student at Gilbert Classical Academy for his teacher Mr. Dodt.
 
 # Original note from the creator (Against Malaria)
