@@ -53,7 +53,7 @@ _[A note on the role of citations in this project](https://github.com/MKorostoff
 - [Efficacy of cash transfers](https://www.givedirectly.org/research-on-cash-transfers/)
 
 # About the Author
-_[Wealth to Scale (One Pixel Wealth) was created by](https://mkorostoff.github.io/)_
+Wealth to Scale (One Pixel Wealth) was created by  _[Matt Korostoff](https://mkorostoff.github.io/)_
 
 Adapted by Omar A. Douglas, local high school student at Gilbert Classical Academy for his teacher Mr. Dodt.
 
