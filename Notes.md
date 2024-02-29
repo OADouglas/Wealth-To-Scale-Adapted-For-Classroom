@@ -7,3 +7,4 @@ Idk ???
 Add A billonaire defender argument and compare it to the paper billionaire ???
 
 change PLACEHOLDER
+Paper billionaire on the worksheet

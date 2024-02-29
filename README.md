@@ -1,39 +1,10 @@
 # About
 Wealth to Scale (Adapted for the classroom)
 Inspired by the original Wealth To Scale Project, I wanted to be able to use this as a resource for an United States history class. While all the evidence is fundementally true, it draws a lot of conclusions for students and is emotionally charged. So to adapt it, I removed lots of the statistics and moved them to a worksheet that compares it to  guilded age to bring it closer to a historical perspective. I may adapt it over time to make it more tailored towards the my specific classroom, if you have any ideas on how to adapt it better please leave it on the issues seciton of the repo! 
-All credit goes to the original dev, Matt Korostoff (who is fantastic and please go check out the site on your own). This isn't meant to replace the original wealth to scale just adapt it! You can also check out his other works at https://mkorostoff.github.io/
+All credit goes to the original dev, Matt Korostoff (who is fantastic and please go check out the site on your own). This isn't meant to replace the original wealth to scale, just adapt it! You can also check out his other works at https://mkorostoff.github.io/
 
-Source code for the adaptation is at (placeholder)
-Source code for the orignal at https://mkorostoff.github.io/1-pixel-wealth/
-
-
- 
-# Translations and Adaptations of the Original 
-
-This page has been translated by volunteers into thirteen languages that I know of. I am not directly involved with any of these translations, and I don't speak any of these languages, so I can't promise they are accurate. If you'd like to create a translation, see [instructions here](https://github.com/MKorostoff/1-pixel-wealth/issues/8#issuecomment-622964168).  Once you've finished, provide a link in the [issue queue](https://github.com/MKorostoff/1-pixel-wealth/issues/new) and I'll update this readme.
-
-- [Spanish/Español 1](https://cjbarroso.com/1-pixel-wealth)
-- [Spanish/Español 2](https://jhoon.github.io/1-pixel-wealth/es)
-- [Spanish/Español 3](https://hmijail.github.io/1-pixel-wealth/es)
-- [Spanish/Español 4](https://jsandovalc.github.io/1-pixel-wealth)
-- [Spanish/Español 5](https://dotmanu.github.io/1-pixel-wealth/) (rewritten for Spain)
-- [Portuguese/Português](https://flpms.github.io/1-pixel-wealth)
-- [German/Deutsch](https://eattherichtextformat.github.io/1-pixel-wealth/de/)
-- [German/Deutsch 2](https://vermoegen.moment.at) (rewritten for Austria)
-- [German/Deutsch 3](https://rggjan.github.io/reichtum-in-pixeln/) (rewritten for Switzerland)
-- [Russian/русский](https://aensidhe.ru/1-pixel-wealth/)
-- [Romanian/Română](https://github.com/andreicristianpetcu/1-pixel-wealth)
-- [Chinese/中文 1](https://doodledu.github.io/1-pixel-wealth)
-- [Chinese/中文 2](https://wealthscale.metastem.su/)
-- [Czech/čeština](https://kerray.github.io/1-pixel-bohatstvi)
-- [French/Française](https://tgluis.github.io/1-pixel-wealth/)
-- [Dutch/Nederlands](https://jobveldhuis.github.io/1-pixel-weelde/)
-- [Italian/Italiano 1](https://lostcrew.github.io/1-pixel-wealth)
-- [Italian/Italiano 2](https://giacomoortona.github.io/1-pixel-wealth/) (rewritten for Italy)
-- [Farsi/فارسی](https://persianhodhod.ir/wealth-in-pixels/)
-- [Turkish/Türk](https://seaque.github.io/1-pixel-wealth/)
-- [Polish/Polskie](https://adamklimowski.github.io/1-pixel-wealth/)
-- [English](https://kamikwasi.tax/) (rewritten for United Kingdom)
+Source code for the adaptation is at https://github.com/OADouglas/Wealth-To-Scale-Adapted-For-Classroomplaceholder
+Source code, as well as translations and adaptations, of the orignal at https://mkorostoff.github.io/1-pixel-wealth/
 
 # Select Sources
 
@@ -57,7 +28,7 @@ Wealth to Scale (One Pixel Wealth) was created by  _[Matt Korostoff](https://mko
 
 Adapted by Omar A. Douglas, local high school student at Gilbert Classical Academy for his teacher Mr. Dodt.
 
-# Original note from the creator (Against Malaria)
+# Original Note From The Creator (Against Malaria)
 
 Please consider making a donation to the [Against Malaria Foundation](https://www.againstmalaria.com/). They are not affiliated with this project in any way, I just really like them.
-(Editors note: it really is a fantastic organization please donate!)
+(Adaptor's note: it really is a fantastic organization please donate!)
