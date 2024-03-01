@@ -8,15 +8,17 @@ html,
   min-height: 100%;
 }
 .title-screen {
-  width: 100vw;
+  width: 150vw;
+  margin-right: 4em;
 }
 h1 {
   text-align: center;
   font-size: 60px;
   line-height: 0.9;
-  width: 100%;
+  width: 90%;
   margin-top: 100px;
 }
+
 .scroll-this-way {
   align-self: flex-end;
   width: 360px;
@@ -25,7 +27,8 @@ h1 {
   right: 0;
   bottom: 0;
   padding-top: 42px;
-  padding-left: 48px;
+  padding-left: 50px;
+
 
   font-size: 30px;
   color: #00000033;
@@ -44,6 +47,7 @@ h1 {
 .footer {
   position: absolute;
   bottom: 40px;
+  right: 0px;
   text-align: center;
   font-size: 12px;
   width: 100%;
@@ -54,13 +58,13 @@ h1 {
   }
 }
 @keyframes bouncy-arrow {
-  0% {background-position: 50px 40px;}
-  20% {background-position: 50px 40px;}
-  25% {background-position: 70px 40px;}
-  30% {background-position: 45px 40px;}
-  35% {background-position: 70px 40px;}
-  40% {background-position: 50px 40px;}
-  100% {background-position: 50px 40px;}
+  0% {background-position: 180px 65px;}
+  20% {background-position: 160px 65px;}
+  25% {background-position: 180px 65px;}
+  30% {background-position: 155px 65px;}
+  35% {background-position: 180px 65px;}
+  40% {background-position: 160px 65px;}
+  100% {background-position: 160px 65px;}
 }
 .wealth-wrapper-outer {
   font-family: sans-serif;
@@ -126,8 +130,15 @@ h1 {
   margin-top: 5px;
 }
 .wealth-wrapper {
-  margin: 1em 3em;
+  margin: 1em 2em;
 }
+
+.wealth-wrapper-2 {
+  margin: 1em 2em;
+}
+
+
+
 .wealth {
   background-color: black;
   align-items: center;
@@ -136,10 +147,7 @@ h1 {
 .title {
   margin-bottom: 5px;
 }
-.billion .wealth > .wealth-title {
-  flex-basis: 110px;
-  position: static;
-}
+
 .four-hundred .wealth > .wealth-title {
   flex-basis: 420px;
 }
@@ -158,14 +166,16 @@ h1 {
     font-size: 19px;
   }
 }
+
 .wealth-title {
   align-self: flex-start;
   position: sticky;
   left: 0;
   margin-bottom: 5px;
   color: black;
-  margin-top: 0;
+  margin-top: 1em;
 }
+
 .text-infobox .title,
 .infobox .chart {
   max-width: 450px;
@@ -292,6 +302,7 @@ h1 {
   background-color: #4CAF50;
 }
 
+
 .billion .wealth {
   width: 2000px;
   height: 500px;
@@ -302,6 +313,44 @@ h1 {
     border-bottom: 3px dotted #007fb7;
   }
 }
+
+.lawyer .wealth{
+  width: 63.2px;
+  height: 63.2px;
+  background-color: #00478a;
+}
+
+.doctor .wealth {
+  width: 81.8px;
+  height: 81.8px;
+  background-color: #0661b9;
+}
+
+.goldman .wealth {
+  width: 223px;
+  height: 223px;
+  background-color: #64A8F0;
+}
+
+.hedgefund .wealth {
+  width: 289.8px;
+  height: 289.8px;
+  background-color: #9daebf;
+}
+
+.tim-cook .wealth {
+  width: 1785px;
+  height: 350px;
+  background-color: #71889e;
+}
+
+.taylor .wealth {
+  height: 500px;
+  width: 2200px;
+  background-color: #f790d5;
+}
+
+
 .bezos .wealth {
   width: 370000px;
   height: 500px;
@@ -409,40 +458,9 @@ h1 {
 .year-chemo .key > span {
   background-color: #03A9F4;
 }
-.celebrities {
-  display: flex;
-  width: auto;
-}
-.beyonce .square {
-  height: 350px;
-  width: 1142px;
-  background-color: #406994;
-}
-.goldman .square {
-  width: 223px;
-  height: 223px;
-  background-color: #64A8F0;
-}
-.tim-cook .square {
-  width: 1785px;
-  height: 350px;
-  background-color: #71889e;
-}
-.doctor .square {
-  width: 81.8px;
-  height: 81.8px;
-  background-color: #0661b9;
-}
-.lawyer .square {
-  width: 63.2px;
-  height: 63.2px;
-  background-color: #00478a;
-}
-.hedgefund .square {
-  width: 289.8px;
-  height: 289.8px;
-  background-color: #9daebf;
-}
+
+
+
 .line-chart svg {
   max-width: 100%;
 }
@@ -891,7 +909,7 @@ h1 {
 }
 .instructions {
   transition: opacity 300ms;
-  margin-top: 40px;
+  margin-top: 80px;
   max-width: 80%;
   color: black;
   font-size: 14px;
