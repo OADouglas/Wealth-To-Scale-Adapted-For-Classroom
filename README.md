@@ -3,7 +3,7 @@ Wealth to Scale (Adapted for the classroom)
 Inspired by the original Wealth To Scale Project, I wanted to be able to use this as a resource for an United States history class. While all the evidence is fundementally true, it draws a lot of conclusions for students and is emotionally charged. So to adapt it, I removed lots of the statistics and moved them to a worksheet that compares it to  guilded age to bring it closer to a historical perspective. I may adapt it over time to make it more tailored towards the my specific classroom, if you have any ideas on how to adapt it better please leave it on the issues seciton of the repo! 
 All credit goes to the original dev, Matt Korostoff (who is fantastic and please go check out the site on your own). This isn't meant to replace the original wealth to scale, just adapt it! You can also check out his other works at https://mkorostoff.github.io/
 
-Source code for the adaptation is at https://github.com/OADouglas/Wealth-To-Scale-Adapted-For-Classroomplaceholder
+Source code for the adaptation is at https://github.com/OADouglas/Wealth-To-Scale-Adapted-For-Classroom
 Source code, as well as translations and adaptations, of the orignal at https://mkorostoff.github.io/1-pixel-wealth/
 
 # Select Sources
